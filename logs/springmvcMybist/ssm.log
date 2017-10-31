@@ -1,0 +1,6 @@
+[INFO] [2017-10-31 14:58:35][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2017-10-31 14:58:35][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@7ca48474: startup date [Tue Oct 31 14:58:35 CST 2017]; root of context hierarchy
+[INFO] [2017-10-31 14:58:35][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [simplelife.properties]
+[INFO] [2017-10-31 14:58:35][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2017-10-31 14:58:36][test.MyTest]{"age":24,"id":1,"password":"123456","userName":"测试"}
+[INFO] [2017-10-31 14:58:36][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@7ca48474: startup date [Tue Oct 31 14:58:35 CST 2017]; root of context hierarchy
