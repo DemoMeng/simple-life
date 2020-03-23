@@ -1,4 +1,3 @@
-# simple-life
 个人上古代码，ssm框架 ！！！
 
 simple-life bate1.0
